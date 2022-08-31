@@ -3,19 +3,9 @@ By Mitchell Cootauco
 
 **CMSI 2130** Algorithms & Analysis, Spring 2022
 
-Song Blog is an app where you can review or give thoughts about any song. Anyone that can make an account can give their review and anyone can see it. The purpose of this app is to give people a place to give their ideas and see if others agree or not. 
+#Game Description
+Tic Tac Total is a java program where you play Tic Tac Toe, but with numbers. The move options for player 1 are, [1, 3, 5]. The move options for player 2 are, [2, 4, 6]. To win against your AI opponent, you must place a number on the board in a diagonal, horizontal, or verticle line so the numbers add up to 13 on your turn.
 
-#Function 1
-The first function is a support link with article with the title, "Top Songs". As the name suggests, it sends the user to the top 100 billboard website on safari. The purpose of this function is to remind the user what song they wanted to write about or to give reccomendations of the songs that they should give a listen to. The button only appears when the user has signed into their account. 
+Using the search algorithm, Alpha-Beta Pruning, the AI oppenent plays the most optimal move in order to win the game. The purpose of this program is to practice using alpha-beta purning, maps, tree maps, iterators, and a 2D int array.
 
-#Function 2
-The second function is a delete button. The purpose of this function is to delete any article that the user wants to delete. The article is deleted from the list and from the database so it is completely gone. 
-
-#Function 3
-The third function is the search bar. The purpose of the search bar is to assist the user when they want to search for a specific title of a song or title of an aricle. 
-
-#Production Security Policy
-The production security is making the accounts using an email. The user must make an account with a real email and a unique password in order to make an article. 
-
-#App Icon
-The app icon was made using Photopea.
+To play this game, run the file, "T3Game", in an IDE. Both the column and row use the index 0 - 2.
