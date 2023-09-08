@@ -1,7 +1,7 @@
 # Tic-Tac-Total
 By Mitchell Cootauco
 
-**CMSI 2130** Algorithms & Analysis, Spring 2022
+**CMSI 2130** Algorithms & Analysis, February 2022
 
 Tic Tac Total is a java program where you play Tic Tac Toe, but with numbers. The move options for player 1 are, [1, 3, 5]. The move options for player 2 are, [2, 4, 6]. 
 
